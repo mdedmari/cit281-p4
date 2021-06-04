@@ -1,1 +1,3 @@
 theme: jekyll-theme-minimal
+title: CIT 281 - Project 4
+description: I gained experience interpreting functional descriptions and specifications to complete an assignment, breaking a project into manageable components, writing and executing non-web server Node.js JavaScript code using VSCode, creating and using code modules, using modern JavaScript syntax, writing and executing Node.js REST API server using VSCode, using Fastify with the GET verb, routes, and route parameters, working with static data, testing code module without using a web server, using Postman to test web server routes, working with JSON, and using Fastify with POST, PUT, and DELETE verbs.
